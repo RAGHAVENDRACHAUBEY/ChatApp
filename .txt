@@ -1,0 +1,23 @@
+*******Message Model*******
+
+Raghavendra(sender)----> "Hello"
+Raghav(receiver) -->"GoodMoring"
+
+
+_id =jksdjkn (mongoDB)
+senderID = 66bb207585cb1f0985af9472
+receiverID = 66bb1ebc9937e1ee8996aa5d
+Message ="GoodMoring"
+
+
+_id =jksdjkjhdfn (mongoDB)
+senderID = 66bb1ebc9937e1ee8996aa5d  
+receiverID = 66bb207585cb1f0985af9472
+Message ="GoodMoring"
+
+
+Conversation Model
+
+_id = hksgdjfhsjghf (mongoDB)
+member[senderID,receiverID]
+Message[_id]
